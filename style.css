@@ -1,0 +1,93 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: #f2f2f2;
+}
+
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: orange;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+}
+
+
+#title
+{
+	text-align: center;
+	padding: 2.3vw;
+	padding-bottom: 1.3vh;
+	font-family: rockwell;
+	font-size: 4vw;
+	color: 	white;
+	background-color: #4267B2;
+	border: 0.3vw solid black;
+}
+
+#subtitle
+{
+	text-align: left;
+	padding: 1.5vw;
+	font-family: rockwell;
+	font-size: 2vw;
+	color: 	black;
+	background-color: #FFF;
+	border-bottom: 0.3vw solid black;
+	border-right: 0.3vw solid black;
+	border-left: 0.3vw solid black;
+	text-align: center;
+	padding-top: 1.5vh;
+	padding-bottom: 1vh;
+}
+
+#object
+{
+	float: left;
+	margin: 1.5vw;
+	border-width: 0.3vw;
+	border-style: solid;
+	border-color: black;
+	padding: 1.3vw;
+	background-color: azure;
+	align-content: center;
+	width: 25vw;
+	height: 40vh;
+}
+
+.images 
+{
+	padding:0;
+	margin-top: 1vw;
+	background-color: azure;
+	border: 0.3vw solid #333;
+	align-content: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+.title
+{
+	text-decoration: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1vw;
+	background-color: azure;
+	font-family: rockwell;
+
+}
